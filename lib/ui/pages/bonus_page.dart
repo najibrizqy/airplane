@@ -80,7 +80,7 @@ class BonusPage extends StatelessWidget {
                     ),
                   ),
                   Text(
-                    'IDR 500.000.000',
+                    'IDR 280.000.000',
                     style: whiteTextStyle.copyWith(
                       fontSize: 26,
                       fontWeight: medium,
