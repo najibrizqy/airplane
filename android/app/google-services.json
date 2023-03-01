@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "945848036003",
+    "project_id": "airplane-410dd",
+    "storage_bucket": "airplane-410dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945848036003:android:793ecc32b30ec3264ead16",
+        "android_client_info": {
+          "package_name": "com.shifu.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945848036003-1ambm6ud3rer3pqm3lasu89e8qbcluhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwfBHHJqORbxmPG8lKF6mCCFZ1a1q91L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945848036003-1ambm6ud3rer3pqm3lasu89e8qbcluhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "945848036003-ajkl1jtj78hfkidl2o6i7n3senhgmuj5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shifu.airplane"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

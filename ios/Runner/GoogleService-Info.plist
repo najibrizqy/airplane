@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>945848036003-ajkl1jtj78hfkidl2o6i7n3senhgmuj5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.945848036003-ajkl1jtj78hfkidl2o6i7n3senhgmuj5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDuaVBzS8w60Fx0O8j47mJ9K3an5PlZ0VE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>945848036003</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shifu.airplane</string>
+	<key>PROJECT_ID</key>
+	<string>airplane-410dd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>airplane-410dd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:945848036003:ios:1e0b5b56f3f087114ead16</string>
+</dict>
+</plist>
