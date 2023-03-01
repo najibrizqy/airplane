@@ -22,7 +22,7 @@
 ## Screenshot
 <p align='center'>
   <span>
-      <image width="800" src="https://user-images.githubusercontent.com/33283502/222072822-e6c90bc1-eb3f-4de2-9885-83d7e61581aa.png" />   
+      <image width="700" src="https://user-images.githubusercontent.com/33283502/222072822-e6c90bc1-eb3f-4de2-9885-83d7e61581aa.png" />   
   </span>
 </p>
 <p align='center'>
